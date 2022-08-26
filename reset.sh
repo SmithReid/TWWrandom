@@ -1,6 +1,6 @@
-touch watch_throughs.txt
-echo "\n" >> watch_throughs.txt
-cat this_time_through.txt >> watch_throughs.txt
-rm watched.txt
-touch watched.txt
-cp static_watched.txt watched.txt
+touch helpers/watch_throughs.txt
+echo "\n" >> helpers/watch_throughs.txt
+cat helpers/this_time_through.txt >> helpers/watch_throughs.txt
+rm helpers/watched.txt
+touch helpers/watched.txt
+cp helpers/static_watched.txt helpers/watched.txt
