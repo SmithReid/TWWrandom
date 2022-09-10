@@ -14,9 +14,11 @@ Python3 installed, honestly version probably does matter.
 
 <h4> Usage: </h4>
 
-The repo is ready to go out of the box, clone and: 
+The repo is ready to go out of the box, `git clone https://www.github.com/SmithReid/TWWrandom`, or use GUI/etc tools and: 
 
-When you want to watch an episode: `python3 script.py`
+`cd TWWrandom`
+
+When you want to watch an episode: working in /path/to/TWWrandom `python3 script.py`
 
 resetting with the help of my script requires `chmod +x reset.sh` **DO NOT `CHMOD +X` ANYTHING YOU DON'T TRUST** I trust myself :) you shouldn't. But review the code yourself, it's very simple, or trust the comments section of the reddit post I will link after creating it. 
 
