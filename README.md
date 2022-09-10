@@ -6,6 +6,8 @@ My next being my >= 8th rewatch of TWW, I decided I wanted to watch all episodes
 
 Some data in /helpers could be modified to suit another show. I'll leave anything further up to you. 
 
+These instructions are for UNIX (MacOS/Linux). If you want to run this from Windows, I'll leave that up to you. 
+
 <h4> Requirements: </h4>
 
 Python3 installed, honestly version probably does matter. 
