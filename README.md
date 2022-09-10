@@ -14,7 +14,7 @@ Python3 installed, honestly version probably does matter.
 
 <h4> Usage: </h4>
 
-The repo is ready to go out of the box, `git clone https://www.github.com/SmithReid/TWWrandom`, or use GUI/etc tools and: 
+The repo is ready to go out of the box, `git clone https://www.github.com/SmithReid/TWWrandom.git`, or use GUI/etc tools and: 
 
 `cd TWWrandom`
 
